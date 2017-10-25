@@ -13,7 +13,7 @@ import android.widget.TextView;
  * Created by artur.musayelyan on 24/10/2017.
  */
 
-public class LayoutByCode extends AppCompatActivity {
+public class RelativeLayoutByCode extends AppCompatActivity {
     private RelativeLayout main;
     private TextView tvMessage, tvUserName, tvPassword;
     private EditText etUserName, etPassword;
